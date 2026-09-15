@@ -7,11 +7,12 @@ Static developer hub for https://jrsaavedra1022.github.io/. Plain HTML/CSS; no r
 - `/`: app directory, replacing the former immediate redirect to `/popora-site/`.
 - `/apps/popora/`: existing marketing content, four original screenshots, support and privacy policy.
 - `/apps/snapclip/`: existing marketing copy, support FAQ and bilingual privacy policy.
-- `/apps/flappy-dragons/`: in-development landing page and working email support; privacy route reserved, explicitly pending and noindexed.
+- `/apps/dragon-flip/`: bilingual marketing, support, privacy and creator-support information; original icon and promotional art.
+- `/apps/flappy-dragons/`: compatibility redirects to Dragon Flip.
 - `/app-ads.txt`: preserved byte-for-byte, at the domain root.
 - `/404.html`: useful not-found page.
 
-Each app uses `index.html`, `support/index.html`, `privacy/index.html`. Add `terms/index.html` only when actual terms apply and have been supplied. No source repository contained custom terms, so this migration does not create legal agreements or change store EULA settings.
+Each app uses `index.html`, `support/index.html`, `privacy/index.html`. The Dragon Flip `terms/` page explains optional cosmetic support and links to relevant store terms; it does not create a custom EULA or change store license settings.
 
 ## Preview and validate
 
@@ -33,6 +34,6 @@ See [migration notes](docs/MIGRATION.md) for original URLs, new URLs and store f
 5. Add the app to the root directory; run the checker and preview on desktop/mobile.
 6. Keep published slugs permanent. If migration is necessary, maintain old routes and links.
 
-## Flappy Dragons release gate
+## Dragon Flip release status
 
-The app has no separate repository yet, per the owner. Its web presence lives here. Before submitting to stores, replace the pending privacy page with the actual policy and remove its `noindex`. Confirm advertisements/SDKs, analytics, accounts, purchases, Game Center, data types, retention/deletion and audience. Do not submit the pending privacy URL as a completed policy. Add verified store links when available.
+The current game uses local progress, no advertising, no accounts and no network services in the reviewed source. Its optional 26-cosmetic support pack is previewable, but real payments are not implemented. The published policy reflects that current version. See [Dragon Flip notes](docs/DRAGON-FLIP.md) before enabling store purchases or submitting a final binary, and [marketing copy](docs/DRAGON-FLIP-MARKETING.md) for ES/EN listing text.

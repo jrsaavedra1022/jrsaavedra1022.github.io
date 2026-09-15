@@ -1,0 +1,8 @@
+Use case: ads-marketing
+Asset type: polished landscape website marketing illustration for DragonFlip, 1536x1024.
+Input image: reference for dragon character identity only, not a layout or background to reproduce.
+Primary request: The reference's compact friendly emerald dragon flies toward the right through fantastical medieval floating stone ruins above an emerald valley, distant tiny castle and mountains, under a vivid blue sky. Include one small magical blue energy orb ahead of the dragon.
+Subject: Preserve the recognizable round emerald dragon with large friendly ivory eye and dark navy pupil, short rounded snout, smiling mouth and one ivory fang, two ivory horns, pale lime belly, teal underside and arrow-tip curved tail, coral angular wings, thick dark navy contours. Use a joyful airborne action pose.
+Style/medium: original bold polished 2D cartoon illustration, thick clean contours, flat colors and limited crisp shading; playful action, strong readable silhouette.
+Composition: wide landscape with dragon prominent in the right half, fully visible, flying right. Upper left stays breathable, mostly open blue sky, to support a website headline overlay later. Place floating stone ruin fragments and green terrain chiefly along lower and peripheral areas. Tiny castle and layered mountains in the distance.
+Constraints: no text, no UI, no logos, no watermark. Promotional artwork, not a fake gameplay screenshot. Do not reproduce or reference another game's visual assets. Generate exactly one image.

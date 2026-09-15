@@ -1,3 +1,7 @@
+# Historical migration notes
+
+**Update:** Dragon Flip now has complete ES/EN pages under `/apps/dragon-flip/`. The prior pending-privacy notes below describe the initial migration only; see [current Dragon Flip notes](DRAGON-FLIP.md). Old `/apps/flappy-dragons/` URLs redirect to the new routes.
+
 # Migration and store URLs
 
 ## Sources inspected
